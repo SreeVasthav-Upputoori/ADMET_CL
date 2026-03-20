@@ -24,7 +24,7 @@ MODEL_FILES = {
     "CYP3A4": "cyp3a4_lgbm_model.pkl",
     "Eye Irritation": "eye_irritation_lgbm_model.pkl",
     "hERG": "hERG_lgbm_model.pkl",
-    "Hepatotoxicity" : "hepatotoxicity_lgbm_model.pkl"
+    "Hepatotoxicity" : "hepatotoxicity_lgbm_model.pkl",
     "Human Intestinal Absorption": "hia_lgbm_model.pkl",
     "P-gp Inhibitor": "pgp_inhibitor_lgbm_model.pkl",
     "Oral Bioavailability": "ob_lgbm_model.pkl",
